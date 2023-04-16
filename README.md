@@ -14,3 +14,13 @@ AI techniques such as machine learning, deep learning, and neural networks are b
 
 The code is related to training and evaluating a Deep Neural Network (DNN) for predicting daily mean temperature in Jaipur, India using weather data. The code imports necessary libraries such as pandas, numpy, tensorflow, matplotlib, sklearn, and seaborn. The dataset is loaded into a pandas DataFrame and some exploratory data analysis is performed using matplotlib and seaborn. The data is then preprocessed by splitting into training and test sets, and normalizing the data. The DNN model is built using Keras Sequential API, with five hidden layers of 13 neurons each and the ReLU activation function. The model is then compiled using the mean squared error loss function and the Adam optimizer. The model is trained for 100 epochs with a batch size of 32, and the model's training progress is visualized using the training and validation loss values. The trained model is then used to predict the mean temperature on the test dataset and evaluated using various metrics such as R2 score, explained variance score, mean absolute error, median absolute error, mean absolute percentage error, and test accuracy. Finally, the actual and predicted values of the mean temperature are displayed along with the R2 score on the test set.
 
+
+## Data Visualization:
+
+
+
+
+
+## Conclusion:
+
+This project has the potential to greatly benefit individuals living in Jaipur, as accurate temperature predictions can help individuals prepare for extreme weather conditions, reduce energy costs by optimizing heating and cooling systems, and even assist in planning outdoor activities. Additionally, these predictions can also aid government agencies in developing and implementing strategies to mitigate the effects of extreme weather events and improve the overall well-being of the community.
