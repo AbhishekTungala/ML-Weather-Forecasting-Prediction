@@ -1,6 +1,6 @@
 
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=1A9AF7&lines=ML+Weather+Prediction!+🌦️+☀️+☁️+⛅+⛈️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=1A9AF7&lines=ML+Weather+Prediction!+🌦️+☀️+☁️+⛅+⛈️)](https://git.io/typing-svg)
 
 
 
