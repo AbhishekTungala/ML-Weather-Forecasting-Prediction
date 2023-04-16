@@ -39,3 +39,4 @@ The code is related to training and evaluating a Deep Neural Network (DNN) for p
 # Conclusion:
 
 This project has the potential to greatly benefit individuals living in Jaipur, as accurate temperature predictions can help individuals prepare for extreme weather conditions, reduce energy costs by optimizing heating and cooling systems, and even assist in planning outdoor activities. Additionally, these predictions can also aid government agencies in developing and implementing strategies to mitigate the effects of extreme weather events and improve the overall well-being of the community.
+ 
