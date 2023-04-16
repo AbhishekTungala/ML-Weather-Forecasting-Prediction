@@ -17,6 +17,9 @@ The code is related to training and evaluating a Deep Neural Network (DNN) for p
 
 ## Data Visualization:
 
+<a href="Data Output/output(42).png">
+  <img height="200"
+</a>
 ![](Data Output/output(42).png)
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
