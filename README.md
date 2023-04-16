@@ -17,9 +17,9 @@ The code is related to training and evaluating a Deep Neural Network (DNN) for p
 
 ## Data Visualization:
 
-![]([https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png](https://github.com/AbhishekTungala/ML-Weather-Forecasting-Prediction-/blob/96e3a6ee6c46d0e2c94735da133e3024c1ad2d31/Data%20Output/output(42).png))
-![]([https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png](https://github.com/AbhishekTungala/ML-Weather-Forecasting-Prediction-/blob/96e3a6ee6c46d0e2c94735da133e3024c1ad2d31/Data%20Output/output(41).png))
-![]([Data Output/output(42).png](https://github.com/AbhishekTungala/ML-Weather-Forecasting-Prediction-/blob/9c51e60af63b48401623a8e422dcb08fa64d7ed7/Data%20Output/output(40).png))
+![]([Data Output/output(42).png](https://github.com/AbhishekTungala/ML-Weather-Forecasting-Prediction-/blob/96e3a6ee6c46d0e2c94735da133e3024c1ad2d31/Data%20Output/output(42).png))
+![]([Data Output/output(41).png](https://github.com/AbhishekTungala/ML-Weather-Forecasting-Prediction-/blob/96e3a6ee6c46d0e2c94735da133e3024c1ad2d31/Data%20Output/output(41).png))
+![]([Data Output/output(40).png](https://github.com/AbhishekTungala/ML-Weather-Forecasting-Prediction-/blob/9c51e60af63b48401623a8e422dcb08fa64d7ed7/Data%20Output/output(40).png))
 
 
 
