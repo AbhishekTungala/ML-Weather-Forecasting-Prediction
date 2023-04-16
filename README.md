@@ -4,58 +4,13 @@
     
 
 
-## Introduction:
+### Introduction:
 
 Artificial Intelligence (AI) is playing an increasingly important role in the field of meteorology and earth science. Meteorology is the study of the Earth's atmosphere and weather, while earth science covers a broader range of disciplines, including geology, oceanography, and atmospheric science. 
 AI techniques such as machine learning, deep learning, and neural networks are being used to analyze vast amounts of data from various sources, such as satellites, weather stations, and other sensors, to predict weather patterns and natural disasters such as hurricanes, tornadoes, and floods. This data analysis can help forecasters to make more accurate and timely predictions, which can ultimately save lives and minimize damage to property.
 
 
-### Talking about Personal Stuffs:
+#### About Code:
 
-- 👋 Hi, I’m AbhishekTungala
-- 👀 I’m currently partcipating in as much Hackathons as I can...
-- 👀 I’m interested in Data Science, Full Stack Web Development
-- 🌱 I’m currently learning Mern 🤟 ...
-- 💬 Ask me about anything, I am happy to help
-
-
-[![Abhishek github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhishekTungala&theme=react-dark)](https://github.com/AbhishekTungala)
-
-![Followers](https://img.shields.io/github/followers/AbhishekTungala?style=plastic&color=white=FOLLOWERS)
-___
-
-### 📊 Some Fun Stats:
-| ![image](https://github-readme-stats.vercel.app/api?username=AbhishekTungala&&show_icons=true&title_colour=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTungala&theme=midnight-purple) | 
-| --- | --- |
-😍 Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/AbhishekTungala/count.svg) |
-___ 
-
-### 🍁 My Skill stack :
-
-|               |           |
-|       ---     |    ---    |
-| `Web-Dev`     | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript) |
-| `Languages`   | ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![C](https://img.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) |
-| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) |
-___  
-
-### 🤝 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-tungala-bb46a2220)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishektungala)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.abhi._.1212._/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishektungala1212@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekTungala)
-___ 
-
-
-<h2>🏆 Github Profile Trophy</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&column=8&theme=algolia&no-frame=true"/>
-</a>
-
-___ 
-
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+The code is related to training and evaluating a Deep Neural Network (DNN) for predicting daily mean temperature in Jaipur, India using weather data. The code imports necessary libraries such as pandas, numpy, tensorflow, matplotlib, sklearn, and seaborn. The dataset is loaded into a pandas DataFrame and some exploratory data analysis is performed using matplotlib and seaborn. The data is then preprocessed by splitting into training and test sets, and normalizing the data. The DNN model is built using Keras Sequential API, with five hidden layers of 13 neurons each and the ReLU activation function. The model is then compiled using the mean squared error loss function and the Adam optimizer. The model is trained for 100 epochs with a batch size of 32, and the model's training progress is visualized using the training and validation loss values. The trained model is then used to predict the mean temperature on the test dataset and evaluated using various metrics such as R2 score, explained variance score, mean absolute error, median absolute error, mean absolute percentage error, and test accuracy. Finally, the actual and predicted values of the mean temperature are displayed along with the R2 score on the test set.
 
