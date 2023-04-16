@@ -23,7 +23,7 @@ The code is related to training and evaluating a Deep Neural Network (DNN) for p
 
 ![]([Data Output/output(40).png](https://github.com/AbhishekTungala/ML-Weather-Forecasting-Prediction-/blob/9c51e60af63b48401623a8e422dcb08fa64d7ed7/Data%20Output/output(40).png))
 
-![]([Data Output/Output (pred).png](https://github.com/AbhishekTungala/ML-Weather-Forecasting-Prediction-/blob/5b75774786da49cad80f6953ef4eed7faf47ee4a/Data%20Output/Output%20(pred).png))
+![#Predicted Graph]([Data Output/Output (pred).png](https://github.com/AbhishekTungala/ML-Weather-Forecasting-Prediction-/blob/5b75774786da49cad80f6953ef4eed7faf47ee4a/Data%20Output/Output%20(pred).png))
 
 
 
